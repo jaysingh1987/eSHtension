@@ -1,2 +1,2 @@
-# eSHtension
-Shell Extensions to make Admin jobs easier
+# eSHtensions
+Shell Snippets to make Admin jobs easier
